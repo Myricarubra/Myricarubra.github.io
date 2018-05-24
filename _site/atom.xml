@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Myricarubra</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2018-05-24T21:05:52+08:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>zdddddd</name>
+   <email>zhangdtt@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>记录博客第一天</title>
+   <link href="http://localhost:4000/2018/05/24/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2.html"/>
+   <updated>2018-05-24T00:00:00+08:00</updated>
+   <id>http://localhost:4000/2018/05/24/第一篇博客</id>
+   <content type="html">&lt;p&gt;  不管是在学习技术还是查找解决问题的办法，阅读博客成了一个习惯。今天很碰巧的看到阮一峰大大的一篇&lt;a href=&quot;http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html&quot;&gt;博客&lt;/a&gt;，于是自己尝试着做一个。快速搭建使用了一个Github上的&lt;a href=&quot;https://github.com/poole/poole&quot;&gt;模版&lt;/a&gt;，日后有时间会进行修改或者重新开发。顺便学习一下Markdown的写法。&lt;/p&gt;
+
+&lt;p&gt;  写博客的目的是记录自己的学习情况，比如阅读jdk源码、读书之后的重点记录等等。希望自己在工作中不断学习、不断积累，成为更好的自己。&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

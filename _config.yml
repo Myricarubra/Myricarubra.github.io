@@ -1,9 +1,9 @@
 # Permalinks
-permalink:           pretty
+# permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
+title:               Myricarubra
+tagline:             但行好事 莫问前程
 url:                 http://getpoole.com
 paginate:            1
 baseurl:             ""
@@ -17,11 +17,11 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              zdddddd
+  url:               https://github.com/Myricarubra/
+  email:             zhangdtt@gmail.com
 
-# Custom vars
+Custom vars:
 version:             2.0.0
 github:
   repo:              https://github.com/poole/poole
