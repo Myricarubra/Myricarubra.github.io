@@ -1,9 +1,11 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>hello world</title>
-</head>
-<body>
-hello
-</body>
-</html>
+---
+layout:default
+title:my blog
+---
+<h2>{{page.title}}</h2>
+<p>最新文章</p>
+<ul>
+  {% for post in site.post %}
+    <li>{{page.date|date_to_string}} <a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></li>
+  {% endfor %}
+</ul>
