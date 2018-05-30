@@ -1,4 +1,7 @@
-
+---
+layout: post
+title: ArrayList源码学习
+---
 
 ###1.概述：
 
